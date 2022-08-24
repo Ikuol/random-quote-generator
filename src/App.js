@@ -34,6 +34,7 @@ class App extends React.Component {
 
         return(
             <div className="container">
+                <p className="title">Best Advices</p>
                 <div className="card">
                     <h1 className="heading">{advice}</h1>
                 </div>
